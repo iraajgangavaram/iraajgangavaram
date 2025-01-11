@@ -22,9 +22,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=iraajgangavaram&theme=radical)
 
 ## 💻 Featured Projects
-- 🔬 **Bioinformatics Project:** *Insert cool project here*
-- 🚀 **AI-based Web App:** *Insert another project here*
-- 📊 **Data Visualization Tool:** *Yet another awesome project*
+- 🔬 **Bioinformatics Project:** Check out the python for drug discovery within this repository.
 
 ---
 
