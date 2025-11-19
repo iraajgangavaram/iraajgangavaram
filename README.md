@@ -3,8 +3,8 @@
 ### 🚀 Developer | Bioinformatics Enthusiast | Tech Explorer
 
 🔭 I’m currently working on: **Cool projects related to bioinformatics and software development**  
-🌱 I’m learning: **Advanced Algorithms, AI in Biology, and more**  
-💬 Ask me about: **Full-stack development, GitHub workflows, and bioinformatics tools**  
+🌱 I’m learning: **statistics**  
+💬 Ask me about: **Python, R language**  
 📫 Reach me at: [iraajmg@gmail.com](mailto:iraajmg@gmail.com)  
 
 ---
