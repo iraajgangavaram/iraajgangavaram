@@ -22,9 +22,7 @@ it runs.
 | 6 | [**Exploratory Bioactivity Analysis**](https://github.com/iraajgangavaram/Exploratory-analysis-on-Bioactivity-Data) | Cheminformatics | Exploratory analysis of ChEMBL bioactivity data: preprocessing, molecular property analysis, visualisation and chemical structure analysis. | Python, pandas, NumPy, Matplotlib, Seaborn, RDKit, Jupyter |
 | 7 | **Mutation Imbalance Analysis** | Population genomics, HPC | Investigates mutation patterns around genetic variants in large population genomic datasets on high-performance computing infrastructure. | Linux, Bash, Python, SLURM, bcftools |
 
-Projects 1 to 3 are the most developed: each has a documented method, a
-validation against simulated data with known truth, unit tests, continuous
-integration and an honest limitations section.
+
 
 ---
 
