@@ -2,11 +2,7 @@
 
 **Bioinformatics and computational biology** · Microbiology undergraduate, University of East Anglia
 
-I use computational methods to ask questions about biological data: gene
-expression, genomic variation, horizontal gene transfer and bioactivity. I
-build analysis tools from first principles and test them against simulated data
-with a known answer, so that I can state how well a method works, not only that
-it runs.
+I use computational methods to answer biological questions about gene expression, genomic variation, horizontal gene transfer and bioactivity. I build analysis pipelines and models in Python, R and Bash, and test them on public datasets.
 
 ---
 
