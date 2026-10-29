@@ -23,7 +23,7 @@ I use computational methods to answer biological questions about gene expression
 
 | Project | Contribution | Status |
 |---|---|---|
-| [nf-core/modules](https://github.com/nf-core/modules) | New module for [CellTypist](https://www.celltypist.org) automated cell-type annotation of single-cell RNA-seq data, with nf-test tests ([branch](https://github.com/iraajgangavaram/modules/tree/add-celltypist-module)) | In progress |
+| [nf-core/modules](https://github.com/nf-core/modules) | New module for [CellTypist](https://www.celltypist.org) automated cell-type annotation of single-cell RNA-seq data, with nf-test tests ([branch](https://github.com/iraajgangavaram/modules/tree/add-celltypist-module)) | Merged |
 | [nf-core/modules](https://github.com/nf-core/modules) | New module for [scDblFinder](https://github.com/plger/scDblFinder) doublet detection in single-cell RNA-seq data, with nf-test tests ([branch](https://github.com/iraajgangavaram/modules/tree/add-scdblfinder-module)) | Merged |
 | [nf-core/test-datasets](https://github.com/nf-core/test-datasets) | Test data for the CellTypist module: a 300-cell PBMC query file and a CellTypist model trained on 600 cells ([pull request](https://github.com/nf-core/test-datasets/pull/2350)) | Merged |
 
